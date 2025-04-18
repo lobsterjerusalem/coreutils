@@ -542,6 +542,10 @@ phf_codegen = { workspace = true }
 name = "coreutils"
 path = "src/bin/coreutils.rs"
 
+[lib]
+name = "libutils"
+path = "src/lib.rs"
+
 [[bin]]
 name = "uudoc"
 path = "src/bin/uudoc.rs"
