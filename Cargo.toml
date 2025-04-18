@@ -543,7 +543,7 @@ name = "coreutils"
 path = "src/bin/coreutils.rs"
 
 [lib]
-name = "libutils"
+name = "coreutils"
 path = "src/lib.rs"
 
 [[bin]]
